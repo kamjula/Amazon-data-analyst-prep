@@ -1,4 +1,5 @@
 # Amazon-data-analyst-prep
+Day 1 completed
 Daily preparation tasks and projects to build skills for an Amazon Data Analyst role. SQL, Python, Tableau and case studies included
 
 Day 2 as Completed
