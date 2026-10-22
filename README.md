@@ -1,4 +1,4 @@
-# 📊 Amazon Data Analyst Prep
+# 📊 Amazon Data Analyst Interview Preparation
 
 A structured 30-day prep system for Amazon Data Analyst interviews — covering SQL from basics to advanced, Python data analysis, Tableau dashboards, and real-world case studies modeled on Amazon's actual interview rounds.
 
