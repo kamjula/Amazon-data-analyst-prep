@@ -424,7 +424,7 @@ This project is open source and available under the MIT License.
 ## Contact & Support
 
 📧 Email: sravanikamjula@gmail.com  
-🔗 LinkedIn: linkedin.com/in/sravani-k-763285176  
+🔗 LinkedIn: linkedin.com/in/sravani-kamjula/  
 💻 GitHub: github.com/kamjula  
 
 ---
