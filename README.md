@@ -72,4 +72,4 @@ python amazon_python_days_8_11.py
 
 ## 👩‍💻 Author
 
-Sravani Kamjula | Data Analyst &nbsp; [LinkedIn](https://linkedin.com) · [Portfolio](https://github.com/kamjula)
+Sravani Kamjula &nbsp; [LinkedIn](https://www.linkedin.com/in/sravani-kamjula/) · [GitHub](https://github.com/kamjula)
